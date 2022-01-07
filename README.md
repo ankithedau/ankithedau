@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Hedau</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Mumbai, India</h3>
+
+- 🎯 I’m currently pursuing **Electronics and Telecommunication Engineering**
+
+- 🌱 I’m currently learning **React Native & React Expo**
 
 - 🔭 I’m currently working on **Nuxt 3 a Javascript Vue Framework**
 
