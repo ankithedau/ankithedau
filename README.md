@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native & React Expo**
 
-- 🔭 I’m currently working on **Nuxt 3 a Javascript Vue Framework**
+- 🔭 I’m currently working on **Nuxt 2 a Javascript Vue Framework**
 
 - 📫 How to reach me **ankit88798187900@gmail.com**
 
