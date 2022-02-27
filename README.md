@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankit Hedau</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 
-- 🎯 I’m currently pursuing **Electronics and Telecommunication Engineering**
+- 🚀 I am a **Software Engineer**
+
+- 🎓 Currently an **Electronics and Telecommunication Engineering from Pune University, India**
 
 - 🔭 I’m currently working on **Nuxt 2 a Javascript Vue Framework**
+
+- ⚡ Experience working with **Wellness & Healthcare Startups**
 
 - 📫 How to reach me **ankit88798187900@gmail.com**
 
