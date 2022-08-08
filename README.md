@@ -3,7 +3,7 @@
 
 - 🚀 I am a **Software Engineer**
 
-- 🎓 Currently an **Electronics and Telecommunication Engineering from Pune University, India**
+- 🎓 An **Electronics and Telecommunication Engineering Graduate from Pune University, India**
 
 - 🔭 I’m currently working on **Nuxt 2 a Javascript Vue Framework**
 
