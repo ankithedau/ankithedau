@@ -5,8 +5,6 @@
 
 - 🎓 An **Electronics and Telecommunication Engineering Graduate from Pune University, India**
 
-- 🔭 I’m currently working on **Nuxt 2 a Javascript Vue Framework**
-
 - ⚡ Experience working with **Wellness & Healthcare Startups**
 
 - 📫 How to reach me **ankit88798187900@gmail.com**
