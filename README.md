@@ -5,7 +5,7 @@
 
 - 🎓 An **Electronics and Telecommunication Engineering Graduate from Pune University, India**
 
-- ⚡ Experience working with **Wellness & Healthcare Startups**
+- ⚡ Experience working with **Wellness, Healthcare & InsurTech Startups**
 
 - 📫 How to reach me **ankit88798187900@gmail.com**
 
